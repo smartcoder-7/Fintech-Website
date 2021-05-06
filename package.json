@@ -51,7 +51,7 @@
     "graphql": "^14.5.8",
     "graphql-anywhere": "^4.2.6",
     "graphql-tag": "^2.10.1",
-    "highcharts": "^7.2.1",
+    "highcharts": "^9.0.0",
     "highcharts-pattern-fill": "^3.0.3",
     "highcharts-react-official": "^2.2.2",
     "imagemin-mozjpeg": "^8.0.0",
